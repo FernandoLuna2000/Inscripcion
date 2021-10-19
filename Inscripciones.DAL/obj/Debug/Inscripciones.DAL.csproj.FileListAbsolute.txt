@@ -1,0 +1,6 @@
+D:\Repos\Inscripciones.DAL\bin\Debug\Inscripciones.DAL.dll
+D:\Repos\Inscripciones.DAL\bin\Debug\Inscripciones.DAL.pdb
+D:\Repos\Inscripciones.DAL\obj\Debug\Inscripciones.DAL.csprojAssemblyReference.cache
+D:\Repos\Inscripciones.DAL\obj\Debug\Inscripciones.DAL.csproj.CoreCompileInputs.cache
+D:\Repos\Inscripciones.DAL\obj\Debug\Inscripciones.DAL.dll
+D:\Repos\Inscripciones.DAL\obj\Debug\Inscripciones.DAL.pdb

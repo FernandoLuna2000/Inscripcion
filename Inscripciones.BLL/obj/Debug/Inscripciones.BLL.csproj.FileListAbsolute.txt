@@ -1,0 +1,9 @@
+D:\Repos\Inscripciones.BLL\bin\Debug\Inscripciones.BLL.dll
+D:\Repos\Inscripciones.BLL\bin\Debug\Inscripciones.BLL.pdb
+D:\Repos\Inscripciones.BLL\bin\Debug\Inscripciones.DAL.dll
+D:\Repos\Inscripciones.BLL\bin\Debug\Inscripciones.DAL.pdb
+D:\Repos\Inscripciones.BLL\obj\Debug\Inscripciones.BLL.csprojAssemblyReference.cache
+D:\Repos\Inscripciones.BLL\obj\Debug\Inscripciones.BLL.csproj.CoreCompileInputs.cache
+D:\Repos\Inscripciones.BLL\obj\Debug\Inscripciones.BLL.csproj.CopyComplete
+D:\Repos\Inscripciones.BLL\obj\Debug\Inscripciones.BLL.dll
+D:\Repos\Inscripciones.BLL\obj\Debug\Inscripciones.BLL.pdb
